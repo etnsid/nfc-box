@@ -33,8 +33,11 @@ Open box with sample cards:
 
 ## Files Included
 
-- `nfc-box.stl` - Main box model
-- `nfc-box-lid.stl` - Lid model
+- `src/box-80 cards.blend` - source file for the model
+- `src/carte-300dpi-template.xcf` - a Gimp template file for stickers
+- `export/nfc-box-base.stl` - base model
+- `export/nfc-box-lid.stl` - lid model
+- `export/nfc-box-separator.stl` - separator model
 
 ## License
 
