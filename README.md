@@ -9,12 +9,17 @@ A simple blocky NFC card box - A 3D printable storage solution for NFC cards.
 - Easy to print with common materials such as PLA
 - No supports needed
 - Can hold up to 80 cards
-- 3 models are available : the base, the lid and the separator
+- Gimp template file for printing stickers for the cards
 
 ## Preview
 
-[Add photos/renders of the box here]
+Closed box:
 
+![closed box](doc/img/IMG_20250421_105736.jpg)
+
+Open box with sample cards:
+
+![example woth cards](doc/img/IMG_20250421_105949.jpg)
 ## Print Settings
 
 - **Layer Height:** 0.15mm
